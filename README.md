@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ParimalaRishi&label=Profile%20views&color=129e00&style=plastic" alt="parimalaRishi" /> </p>
 
-- 🌱 I’m currently learning ****Sales Force****
+- 🌱 I’m currently learning ****Devsecops****
 
 - 📫 How to reach me *rishi136924@gmail.com*
 
